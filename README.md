@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pragnesh0074" alt="pragnesh0074" /></a> </p>
 
-- 🔭 I’m currently working on **-**
+- 🔭 I’m currently working on **Vaastu Map Flutter Application**
 
 - 🌱 I’m currently learning **Node.js**
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/108PfO5WV0o_qaT9QFXweycJMOwo0BQfn/view?usp=drive_link](https://drive.google.com/file/d/108PfO5WV0o_qaT9QFXweycJMOwo0BQfn/view?usp=drive_link)
 
-- ⚡ Fun fact **I like to video play games**
+- ⚡ Fun fact **I like to play video games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
