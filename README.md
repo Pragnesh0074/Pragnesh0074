@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pragnesh0074" alt="pragnesh0074" /></a> </p>
 
-- 🔭 I’m currently working on **Kitche Keeper Flutter Application**
+- 🔭 I’m currently working on **Kitchen Keeper Flutter Application**
 
 - 🌱 I’m currently learning **MobX**
 
