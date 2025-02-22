@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pragnesh0074" alt="pragnesh0074" /></a> </p>
 
-- 🔭 I’m currently working on **Vaastu Map Flutter Application**
+- 🔭 I’m currently working on **Kitche Keeper Flutter Application**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **MobX**
 
 - 👨‍💻 All of my projects are available at [https://code-demon.netlify.app/](https://code-demon.netlify.app/)
 
 - 💬 Ask me about **Android, Flutter, React.js**
 
 - 📫 How to reach me **PragneshVagadiya0074@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/108PfO5WV0o_qaT9QFXweycJMOwo0BQfn/view?usp=drive_link](https://drive.google.com/file/d/108PfO5WV0o_qaT9QFXweycJMOwo0BQfn/view?usp=drive_link)
 
 - ⚡ Fun fact **I like to play video games**
 
