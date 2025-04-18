@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Kitchen Keeper Flutter Application**
 
-- 🌱 I’m currently learning **MobX**
+- 🌱 I’m currently learning **--**
 
 - 👨‍💻 All of my projects are available at [https://code-demon.netlify.app/](https://code-demon.netlify.app/)
 
