@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **--**
 
-- 👨‍💻 All of my projects are available at [https://code-demon.netlify.app/](https://code-demon.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://pragnesh-portfolio.vercel.app/](https://pragnesh-portfolio.vercel.app/)
 
 - 💬 Ask me about **Android, Flutter, React.js**
 
