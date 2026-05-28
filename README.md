@@ -13,7 +13,9 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=pragnesh0074&label=Profile%20views&color=58a6ff&style=for-the-badge" alt="profile views" />
   &nbsp;
-  <a href="https://pragnesh-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-58a6ff?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://pragnesh-portfolio.vercel.app/"><img src="https://img.shields.io/badge/📱%20Mobile%20Portfolio-Visit-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://pragnesh-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🤖%20AI%20Portfolio-Visit-ea580c?style=for-the-badge&logo=openai&logoColor=white" /></a>
   &nbsp;
   <a href="mailto:PragneshVagadiya0074@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-58a6ff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -30,7 +32,8 @@
 | 📱 **Mobile Dev** | Flutter · Android · Kotlin · Java · Dart |
 |---|---|
 | 🤖 **AI/ML** | LLMs · RAG · AI Agents · LangChain · HuggingFace |
-| 👨‍💻 **Portfolio** | [pragnesh-portfolio.vercel.app](https://pragnesh-portfolio.vercel.app/) |
+| 📱 **Mobile Portfolio** | [pragnesh-portfolio.vercel.app](https://pragnesh-portfolio.vercel.app/) |
+| 🤖 **AI Portfolio** | [pragnesh-portfolio.vercel.app](https://pragnesh-portfolio.vercel.app/) |
 | 📫 **Email** | PragneshVagadiya0074@gmail.com |
 | ⚡ **Fun fact** | I love playing video games |
 
@@ -150,34 +153,34 @@
 
 **🤖 AI / ML**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://pragnesh-portfolio.vercel.app/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pragnesh-portfolio.vercel.app/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://pragnesh-portfolio.vercel.app/)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://pragnesh-portfolio.vercel.app/)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)](https://pragnesh-portfolio.vercel.app/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://pragnesh-portfolio.vercel.app/)
 
 **📱 Mobile**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://pragnesh-portfolio.vercel.app/)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://pragnesh-portfolio.vercel.app/)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://pragnesh-portfolio.vercel.app/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://pragnesh-portfolio.vercel.app/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://pragnesh-portfolio.vercel.app/)
 
 **🗄️ Databases & Cloud**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://pragnesh-portfolio.vercel.app/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://pragnesh-portfolio.vercel.app/)
+[![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)](https://pragnesh-portfolio.vercel.app/)
+[![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://pragnesh-portfolio.vercel.app/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://pragnesh-portfolio.vercel.app/)
 
 **🔧 Tools**
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)](https://pragnesh-portfolio.vercel.app/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://pragnesh-portfolio.vercel.app/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://pragnesh-portfolio.vercel.app/)
 
 </div>
 
@@ -189,7 +192,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pragnesh-vagadiya)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pragnesh_308)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pragnesh-portfolio.vercel.app/)
+[![📱 Mobile Portfolio](https://img.shields.io/badge/📱%20Mobile%20Portfolio-000000?style=for-the-badge&logo=flutter&logoColor=white)](https://pragnesh-portfolio.vercel.app/)
+[![🤖 AI Portfolio](https://img.shields.io/badge/🤖%20AI%20Portfolio-ea580c?style=for-the-badge&logo=openai&logoColor=white)](https://pragnesh-portfolio.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:PragneshVagadiya0074@gmail.com)
 
 </div>
