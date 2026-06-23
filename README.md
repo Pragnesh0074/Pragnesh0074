@@ -26,7 +26,7 @@
 
 ## 🧑‍💻 About Me
 
-> I'm a **Mobile & Web Developer** who has now expanded into the world of **AI/ML** —
+> I'm a **Mobile Application Developer** who has now expanded into the world of **AI/ML** —
 > learning Generative AI, RAG Systems, AI Agents, and building production-ready AI systems from the ground up.
 
 | 📱 **Mobile Dev** | Flutter · Android · Kotlin · Java · Dart |
