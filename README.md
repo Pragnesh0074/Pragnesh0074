@@ -15,7 +15,7 @@
   &nbsp;
   <a href="https://pragnesh-portfolio.vercel.app/"><img src="https://img.shields.io/badge/📱%20Mobile%20Portfolio-Visit-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></a>
   &nbsp;
-  <a href="https://pragnesh-portfolio.vercel-ai.app/"><img src="https://img.shields.io/badge/🤖%20AI%20Portfolio-Visit-ea580c?style=for-the-badge&logo=openai&logoColor=white" /></a>
+  <a href="https://pragnesh-portfolio-ai.vercel.app/"><img src="https://img.shields.io/badge/🤖%20AI%20Portfolio-Visit-ea580c?style=for-the-badge&logo=openai&logoColor=white" /></a>
   &nbsp;
   <a href="mailto:PragneshVagadiya0074@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-58a6ff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
