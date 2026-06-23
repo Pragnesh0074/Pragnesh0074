@@ -32,8 +32,6 @@
 | 📱 **Mobile Dev** | Flutter · Android · Kotlin · Java · Dart |
 |---|---|
 | 🤖 **AI/ML** | LLMs · RAG · AI Agents · LangChain · HuggingFace |
-| 📱 **Mobile Portfolio** | [pragnesh-portfolio.vercel.app](https://pragnesh-portfolio.vercel.app/) |
-| 🤖 **AI Portfolio** | [pragnesh-portfolio.vercel.app](https://pragnesh-portfolio.vercel.app/) |
 | 📫 **Email** | PragneshVagadiya0074@gmail.com |
 | ⚡ **Fun fact** | I love playing video games |
 
