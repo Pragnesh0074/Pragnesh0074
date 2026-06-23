@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Pragnesh Vagadiya
 
-### 🤖 FullStack AI/ML Developer &nbsp;|&nbsp; 📱 Mobile Developer
+### 🤖 FullStack AI/ML Developer &nbsp;|&nbsp; 📱 Mobile Application Developer
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Generative+AI+%7C+RAG+Systems+%7C+AI+Agents;LangChain+%7C+LLMs+%7C+Prompt+Engineering;Flutter+%7C+Android+%7C+React.js+Developer;Building+Scalable+AI+Systems+%F0%9F%9A%80" alt="Typing SVG" />
